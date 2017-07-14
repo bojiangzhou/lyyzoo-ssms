@@ -1,0 +1,51 @@
+
+
+学生成绩管理系统(ssms)【Student Score Manage System】
+
+学生成绩管理系统使用说明
+
+
+1.新建数据库ssms，将ssms.sql导入该数据库
+
+2.用解压文件打开ssms.war, 打开ssms.war\WEB-INF\classes\c3p0-config.xml文件，修改服务器所在数据库用户名和密码
+
+3.将ssms.war文件放入tomcat/webapps目录下
+
+4.启动tomcat服务器
+
+5.打开浏览器，输入 localhost:8080/ssms 进入登录界面
+
+6.输入用户名和密码访问系统
+ 用户名：admin
+ 密码：111111
+ 
+ 教师账号：
+	2012 
+	2011
+	2010
+	2009
+	2008
+	
+	
+ 学生账号：
+	201301001
+	201302002
+	201401001
+	201402002
+	
+ 密码都为：111111
+
+也可将ssms.zip项目文件导入eclipse使用
+注：将src下c3p0-config.xml中的用户名和密码改为自己数据库的用户名和密码
+
+
+
+
+
+
+
+
+
+
+
+

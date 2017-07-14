@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/ssms</property>
+		<property name="user">root</property>
+		<property name="password">root</property>
+	</default-config>
+	
+	<!-- <default-config>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://192.168.1.13:3306/df07fb99668844964bc0266b841e65ed9</property>
+		<property name="user">5d8cf882-2db4</property>
+		<property name="password">aa19a42d-1d5a</property>
+	</default-config> -->
+	
+	
+</c3p0-config>
+

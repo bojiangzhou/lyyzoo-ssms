@@ -1,0 +1,8 @@
+#gitignore
+
+RemoteSystemsTempFiles
+.settings
+.classpath
+.project
+
+
